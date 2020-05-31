@@ -1,2 +1,2 @@
 # Examen-Final-
- 5 ejercicios  donde cada uno tiene un valor diferente. 
+En el presente archivo  encontraremos la solucion a un problema matematico, en el cual usaremos el  programa Editor de Python,  en el archivo ejercicio 1. encontramos las entradas al problema,  se realisa una compra y se ingresan, nombre, numeros de cedulas, valores de productos, descuentos,  codigos. En el archivo resultaados ejercicio 1, tendremos todas las salidas relacionadas con el ejercicio 1,  encontrarremos  los daatos de la persona que realiza la compra,   los valores  tootal de la compra,  despues de los descuentos aplicados.  En el Archivo de texto, describimos algunos problemas que tuvimos al generar la programación de Python y sus posibles soluciones.  
